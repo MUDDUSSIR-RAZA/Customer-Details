@@ -1,6 +1,6 @@
 import { Menu } from "antd";
 import Link from "next/link";
-import { AiFillHome } from "react-icons/Ai";
+import { AiFillHome } from "react-icons/ai";
 
 const items = [
   {
