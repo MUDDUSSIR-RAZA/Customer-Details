@@ -8,6 +8,7 @@ const MyContent = ({ children }) => {
           margin: "24px 16px 0",
           textAlign: "center",
           paddingBottom: "50px",
+          color: "#001529",
         }}
       >
         <div
