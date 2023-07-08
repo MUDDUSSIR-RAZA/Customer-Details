@@ -6,7 +6,11 @@ import MyMenu from "../MyMenu";
 
 const PageLayout = ({ children }) => {
   return (
-    <Layout>
+    <Layout
+      style={{
+        height: "100vh",
+      }}
+    >
       <MyHeader />
       <MyMenu />
       <MyContent>{children}</MyContent>
