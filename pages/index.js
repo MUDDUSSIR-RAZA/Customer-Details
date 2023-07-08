@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "next/link";
 import PageLayout from "@/Components/PageLayout";
-import { AiFillHome } from "react-icons/Ai";
 
 const MyComponent = () => {
   return (
