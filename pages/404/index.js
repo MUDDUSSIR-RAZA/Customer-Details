@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { AiFillHome } from "react-icons/Ai";
+import { AiFillHome } from "react-icons/ai";
 
 const Custom404 = () => {
   return (
