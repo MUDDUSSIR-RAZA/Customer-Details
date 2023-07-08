@@ -9,6 +9,7 @@ const MyContent = ({ children }) => {
           textAlign: "center",
           paddingBottom: "50px",
           color: "#001529",
+          overflow: "auto",
         }}
       >
         <div
