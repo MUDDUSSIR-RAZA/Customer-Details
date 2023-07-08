@@ -24,7 +24,7 @@ function generateClients() {
       projects: [],
       projectStatus: "In Progress",
       attachments: faker.system.fileName(),
-      image: "https://picsum.photos/200/100",
+      image: `https://picsum.photos/200/100?random=${i}`,
     };
 
     for (let j = 1; j <= 5; j++) {
